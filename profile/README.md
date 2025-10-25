@@ -1,9 +1,8 @@
-[![DEV_UNIFIP Banner](https://www.unifip.edu.br/assets/img/logo.png)](https://www.unifip.edu.br)
+[![DEV_UNIFIP Banner](https://www.unifip.edu.br/imagens/banners/7-1582807550.gif)](https://www.unifip.edu.br)
 
 # Bem-vindo(a) ao **DEV_UNIFIP** 🚀💻
 
-O **DEV_UNIFIP** é a comunidade de desenvolvimento de software do  
-**Centro Universitário de Patos (UNIFIP)**, localizada em Patos – PB.  
+O **DEV_UNIFIP** é o setor de desenvolvimento de software do **Centro Universitário de Patos (UNIFIP)**, localizada em Patos – PB.  
 
 Nosso propósito é **impulsionar a inovação tecnológica** na educação, pesquisa e gestão acadêmica, desenvolvendo soluções que integrem boas práticas de engenharia de software, ciência de dados e inteligência artificial.
 
